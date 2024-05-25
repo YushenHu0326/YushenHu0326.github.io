@@ -17,11 +17,11 @@ social: false # includes social icons at the bottom of the page
 
 Student at Future Reality Lab working with Prof. Ken Perlin
 
-Enthusiastic game developer. Check out some of my projects on the [project section](projects.md/) of my website!!
+Full stack game developer. I do indie games as a hobby in my free time. Check out some of my [unpublished and soon-to-be-published projects](projects/#Games/)!!
 
-I have also gained a lot of experience developing AR/VR/XR platforms under FRL, using Unity's XRKit and webXR. Give [these projects](projects.md/) a look!
+I have also gained a lot of experience developing AR/VR/XR platforms under Future Reality Lab, on development skills and team collaboration. Most of our projects are using Unity's XRKit and webXR. Give [these projects](projects/#VR/AR/XR) a look!
 
-In my free time, I enjoy playing basketball, playing guitar, walking around the city. I also love hiking and snowboarding!
+In my free time, I enjoy playing basketball, playing guitar, walking around the city, jogging at the Central Park. I also love to go to the mountains! On summer it's hiking and on winter it's snowboarding.
 
 Strength: Unity game development with C#, Unreal Engine 4/5 game development with C++ (UE's API) and Blueprint, Javascript, webXR.
 
