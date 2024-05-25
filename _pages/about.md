@@ -17,9 +17,9 @@ social: false # includes social icons at the bottom of the page
 
 Student at Future Reality Lab working with Prof. Ken Perlin
 
-Enthusiastic game developer. Check out some of my projects on the [project section](projects/) of my website!!
+Enthusiastic game developer. Check out some of my projects on the [project section](projects.md/) of my website!!
 
-I have also gained a lot of experience developing AR/VR/XR platforms under FRL, using Unity's XRKit and webXR. Give [these projects](projects/) a look!
+I have also gained a lot of experience developing AR/VR/XR platforms under FRL, using Unity's XRKit and webXR. Give [these projects](projects.md/) a look!
 
 In my free time, I enjoy playing basketball, playing guitar, walking around the city. I also love hiking and snowboarding!
 
