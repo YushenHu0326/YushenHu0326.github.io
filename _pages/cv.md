@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: XR/VR/AR
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
