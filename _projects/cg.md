@@ -10,7 +10,7 @@ related_publications: false
 
 In Fall 2022, I have taken the Intro to Computer Graphics course in NYU, instructed by Prof. Ken Perlin, whose name is big in Computer Graphics industry for his implementation of Perlin Noise. Later, he had offered me a chance to work with him in his Future Reality Lab for my outstanding work on his class, to which I am very grateful of. Here are two of my most satisfying projects. 
 
-The [Shirahige Shrine project](https://YushenHu0326.github.io/assets/html/shirahige.html) is a cool project to show what I have learnt on ray-tracing. I had also used ray-marching for the distant mountain and the underwater light beam. Feel free to play around the camera angle and time of day!
+The [Shirahige Shrine project](https://YushenHu0326.github.io/assets/html/shirahige/shirahige.html) is a cool project to show what I have learnt on ray-tracing. I had also used ray-marching for the distant mountain and the underwater light beam. Feel free to play around the camera angle and time of day!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +30,7 @@ The [Shirahige Shrine project](https://YushenHu0326.github.io/assets/html/shirah
     A beautiful view of Shirahige Shrine at sunset.
 </div>
 
-My [final project](https://YushenHu0326.github.io/assets/img/cgfinal.html) for the CG course is the volumetric cloud via ray-marching. I used Perlin Noise for the surface displacement of the cloud and ray-marching for rendering the cloud itself. I had also added a nice volumetric light on it.
+My [final project](https://YushenHu0326.github.io/assets/html/final/cgfinal.html) for the CG course is the volumetric cloud via ray-marching. I used Perlin Noise for the surface displacement of the cloud and ray-marching for rendering the cloud itself. I had also added a nice volumetric light on it.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
