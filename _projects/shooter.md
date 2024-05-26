@@ -18,7 +18,7 @@ Also, I have added an AI system. It's not very intricate, for the attackers, the
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/shooter/flashlight.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/shooter/flashlight.gif" title="flashlight" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,7 +27,7 @@ Also, I have added an AI system. It's not very intricate, for the attackers, the
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/shooter/checkload.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/shooter/checkload.gif" title="check" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ Also, I have added an AI system. It's not very intricate, for the attackers, the
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/shooter/ai.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/shooter/ai.gif" title="ai" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,7 +45,7 @@ Also, I have added an AI system. It's not very intricate, for the attackers, the
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/shooter/ai_2.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/shooter/ai_2.gif" title="ai-2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
