@@ -24,3 +24,30 @@ Also, I have added an AI system. It's not very intricate, for the attackers, the
 <div class="caption">
     Player can call the menu to interact with weapons. These interactions include change fire mode, turn on/off flashlight, etc..
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/shooter/checkload.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Player can check if theie weapons are loaded by pulling up the handle.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/shooter/ai.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Two teams of AI engaging.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/shooter/ai_2.gif" title="interaction" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    An enemy AI is searching player based on the last known position.
+</div>
