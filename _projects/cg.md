@@ -8,6 +8,8 @@ category: Schoolwork
 related_publications: false
 ---
 
+[Warning if you're using Windows Chrome] For some reason, the projects don't work very well on my Windows Chrome, it will take a few seconds to open up the link and the frame rate is low.
+
 In Fall 2022, I have taken the Intro to Computer Graphics course in NYU, instructed by Prof. Ken Perlin, whose name is big in Computer Graphics industry for his implementation of Perlin Noise. Later, he had offered me a chance to work with him in his Future Reality Lab for my outstanding work on his class, to which I am very grateful of. Here are two of my most satisfying projects. 
 
 The [Shirahige Shrine project](https://YushenHu0326.github.io/assets/html/shirahige/shirahige.html) is a cool project to show what I have learnt on ray-tracing. I had also used ray-marching for the distant mountain and the underwater light beam. Feel free to play around the camera angle and time of day!
