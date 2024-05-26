@@ -2,7 +2,7 @@
 layout: page
 title: Interactive Terrain Authoring in VR
 description: a novel system written in Unity to provide game designer a tool to fast prototype terrain.
-img: assets/img/terrainVR-draw-mode.png
+img: assets/img/terrain/terrainVR-draw-mode.png
 importance: 1
 category: VR/AR/XR
 related_publications: false
@@ -14,7 +14,7 @@ The system is developed in Unity using Oculus plugins. From the idea I have prop
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/terrainVR-teaser.png" title="overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/terrain/terrainVR-teaser.png" title="overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,13 +23,13 @@ The system is developed in Unity using Oculus plugins. From the idea I have prop
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/terrainVR-draw-mode.png" title="draw" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/terrain/terrainVR-draw-mode.png" title="draw" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/terrainVR-edit.png" title="edit" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/terrain/terrainVR-edit.png" title="edit" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/noise.png" title="smoothness" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/terrain/noise.png" title="smoothness" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
