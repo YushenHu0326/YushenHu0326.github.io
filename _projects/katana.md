@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sekiro-like Katana Combat System
-description: an imitation of the popular action game Sekiro: Shadow Die Twice
+description: an imitation of the popular action game Sekiro Shadow Die Twice
 img: assets/img/katana/thumbnail.png
 importance: 2
 category: Games
