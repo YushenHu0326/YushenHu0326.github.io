@@ -2,7 +2,7 @@
 layout: page
 title: Asymmetric VR for Education
 description: a framework for the communication of VR users and non-VR users, presented in SIGGRAPH 2023 Immersive Pavilion.
-img: assets/img/asymvr.png
+img: assets/img/asymvr/asymvr.png
 importance: 2
 category: VR/AR/XR
 related_publications: false
@@ -16,7 +16,7 @@ Besides that, I have also designed the demonstration system, inspired by music g
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/asymvr.png" title="overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/asymvr/asymvr.png" title="ar-vr-1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ Besides that, I have also designed the demonstration system, inspired by music g
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/asymvr-ar.png" title="draw" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/asymvr/asymvr-ar.png" title="ar-vr-2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +34,7 @@ Besides that, I have also designed the demonstration system, inspired by music g
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/asymvr-ins.png" title="draw" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/asymvr/asymvr-ins.png" title="hud" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -43,7 +43,7 @@ Besides that, I have also designed the demonstration system, inspired by music g
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/asymvr-mp.png" title="draw" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/asymvr/asymvr-mp.png" title="mp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
