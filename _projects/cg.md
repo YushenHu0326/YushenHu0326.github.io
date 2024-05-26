@@ -30,7 +30,7 @@ The [Shirahige Shrine project](https://YushenHu0326.github.io/assets/html/shirah
     A beautiful view of Shirahige Shrine at sunset.
 </div>
 
-My [final project](https://YushenHu0326.github.io/assets/jupyter/cgfinal.html) for the CG course is the volumetric cloud via ray-marching. I used Perlin Noise for the surface displacement of the cloud and ray-marching for rendering the cloud itself. I had also added a nice volumetric light on it.
+My [final project](https://YushenHu0326.github.io/assets/img/cgfinal.html) for the CG course is the volumetric cloud via ray-marching. I used Perlin Noise for the surface displacement of the cloud and ray-marching for rendering the cloud itself. I had also added a nice volumetric light on it.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
