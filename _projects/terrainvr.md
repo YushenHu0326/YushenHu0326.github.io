@@ -36,6 +36,15 @@ The system is developed in Unity using Oculus plugins. From the idea I have prop
     Users can draw and edit strokes "like a noodle" (quoted from one of our users in the study), these strokes represent the shape of the terrain. User can also alter the surface smoothness of the terrain to create deep-eroded terrain or lightly-eroded terrain.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/terrain/demo.gif" title="demo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Drawing the volcano with only one action and within seconds.
+</div>
+
 Want to see the actual gameplay? Check out the teaser video we recorded below!
 
 <div class="row mt-3">
