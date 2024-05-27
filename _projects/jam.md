@@ -34,7 +34,7 @@ The [Abyss](https://vincenthu0326.itch.io/abyss) game was less technically diffi
     The underwater monster.
 </div>
 
-During that time, I had also made a game that wasn't on any jam, but I think it's worth mentioning it. It came from the idea of a rogue cyborg running away from the police on the rooftops of a cyberpunk-themed city. Other than the 3D model for the protagonist, I have made nearly every single piece of asset of this game, from the 3D models of the environment and weapons, to the Third Person Shooter mechanics and animation tree, as well as the enemy AI, including cyborg polices and drones. It was definitely an exhausting experience, and the output quality isn't enough to be published at the game store. Still, it's a valuable experience to give me a feeling of how a game is made.
+During that time, I had also made a game that wasn't on any jam, but I think it's worth mentioning it. It came from the idea of a rogue cyborg running away from the police on the rooftops of a cyberpunk-themed city. Other than the 3D model for the protagonist, I have made nearly every single piece of asset of this game, from the 3D models of the environment and weapons, to the Third Person Shooter mechanics and animation tree, the save/load system, as well as the enemy AI, including cyborg polices and drones. It was definitely an exhausting experience, and the output quality isn't enough to be published at the game store. Still, it's a valuable experience to give me a general sense of the process of game development.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
