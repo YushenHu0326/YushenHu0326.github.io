@@ -8,6 +8,10 @@ category: VR/AR/XR
 related_publications: false
 ---
 
+This project has been published in VRST 2024 (and win the best paper award!) and SIGGRAPH Asia 2024. Here are the links to these two publications: 
+https://dl.acm.org/doi/10.1145/3641825.3687736
+https://dl.acm.org/doi/10.1145/3681759.3688935
+
 When using the built-in terrain tools from game engines like Unity and Unreal Engine, it always bothers me that the brushes from those tools feel too cartoonish, many features from terrain in real life, such as erosions, cannot be well presented by those tools. Using custom brushes or real life satellite height image, on the other hand, lack of creative controls. Thus, I have designed this system, mainly to tackle the problems of lacking realism from existing terrain tools, using the power of AI model. To maximize the creative control, I put the system in VR to give the users the ability to create any terrain with the shape they want in 3D without any topological constraints, tackling an existing problem.
 
 The system is developed in Unity using Oculus plugins. From the idea I have proposed, I have been responsible for the fine-tuning of the Generative Adversarial Network model, integrating the model to Unity, designing and engineering the interaction of VR users, and the terrain synthesis. The system, along with the user study we conduct in our lab, is being submitted to a related venue. Many users in the study with a game design or 3D design background found this system useful for fast prototyping and gave positive feedbacks. Sometimes even I use this system in my side project to create terrain!
