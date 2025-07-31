@@ -15,6 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+Upcoming PhD in Computer Science at University of Minnesota, Twin Cities.
 Bachelor of Arts in Computer Science & Mathematics at New York University.
 
 I have gained a lot of experience developing AR/VR/XR platforms working under Future Reality Lab with Prof. Ken Perlin, both on development skills and team collaboration. Most of our projects are using Unity's XRKit and webXR. Give [these projects](https://yushenhu0326.github.io/projects/#VR/AR/XR) a look!
