@@ -17,9 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Bachelor of Arts in Computer Science & Mathematics at New York University.
 
-Full stack game developer. I do indie games as a hobby in my free time. Check out some of my [unpublished and soon-to-be-published projects](https://yushenhu0326.github.io/projects/#Games)!!
-
-I have also gained a lot of experience developing AR/VR/XR platforms working under Future Reality Lab with Prof. Ken Perlin, both on development skills and team collaboration. Most of our projects are using Unity's XRKit and webXR. Give [these projects](https://yushenhu0326.github.io/projects/#VR/AR/XR) a look!
+I have gained a lot of experience developing AR/VR/XR platforms working under Future Reality Lab with Prof. Ken Perlin, both on development skills and team collaboration. Most of our projects are using Unity's XRKit and webXR. Give [these projects](https://yushenhu0326.github.io/projects/#VR/AR/XR) a look!
 
 In my free time, I enjoy playing basketball, playing guitar, walking around the city, jogging at the Central Park. I also love to go to the mountains! I like hiking on the summer and snowboarding in the winter.
 
