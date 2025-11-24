@@ -15,13 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Upcoming PhD in Computer Science at University of Minnesota, Twin Cities.
+First year PhD in Computer Science at University of Minnesota, Twin Cities.
 Bachelor of Arts in Computer Science & Mathematics at New York University.
 
 I have gained a lot of experience developing AR/VR/XR platforms working under Future Reality Lab with Prof. Ken Perlin, both on development skills and team collaboration. Most of our projects are using Unity's XRKit and webXR. Give [these projects](https://yushenhu0326.github.io/projects/#VR/AR/XR) a look!
 
-In my free time, I enjoy playing basketball, playing guitar, walking around the city, jogging at the Central Park. I also love to go to the mountains! I like hiking on the summer and snowboarding in the winter.
+In my spare time, I enjoy playing basketball, playing guitar, playing (and making!) video games. I also love to go to the mountains! I love hiking and snowboarding.
 
 Strength: Unity game development with C#, Unreal Engine game development with C++ (UE's API) and Blueprint, Javascript, webXR.
 
-Other things I can do: writing shaders; procedural generation; game networking; network engineering with node JS; machine-learning model fine tuning and integrating; 3D modeling using Blender, 3DSMax, Maya, ...
+Other things I can do: writing shaders; procedural generation; game networking; network engineering with node JS; machine-learning related stuffs (pytorch, diffusion, transformers, etc.); 3D modeling using Blender, 3DSMax, Maya, ...
