@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of my projects.
 nav: true
 nav_order: 3
-display_categories: [Games, VR/AR/XR, Miscellaneous, Schoolwork]
+display_categories: [VR/AR/XR, Miscellaneous, Schoolwork]
 horizontal: false
 ---
 
